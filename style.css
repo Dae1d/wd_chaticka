@@ -1,8 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&family=Outfit:wght@300&display=swap');
 .nav-link{
-   color: rgb(120, 120, 120) !important;
+   color: rgb(163, 163, 163) !important;
+}
+
+.bg-orange{
+   background-color:rgb(255, 242, 218)
 }
 
 .navbar-brand{
    color: rgb(165, 165, 165) !important;
+}
+
+.carousel-inner{
+
 }
